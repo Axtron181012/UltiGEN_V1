@@ -31,4 +31,4 @@ Download The Official UltiGEN Client -  The Ultimate Giftcard Generator
 # Disclaimer
 Everything you can see here has been made for educational purposes and as a proof of concept.
 I do not promote the usage of my tools, and do not take responsibility for any bad usage of this tool.
-Stealing codes means stealing money from people and is against Discord's TOS. Don't.
+Stealing codes means stealing money from people and is against Discord's and Roblox's TOS. Don't.
